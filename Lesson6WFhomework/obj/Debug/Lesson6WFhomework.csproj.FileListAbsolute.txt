@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\bin\Debug\Lesson6WFhomework.exe.config
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\bin\Debug\Lesson6WFhomework.exe
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\bin\Debug\Lesson6WFhomework.pdb
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\bin\Debug\MaterialSkin.dll
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\obj\Debug\Lesson6WFhomework.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\obj\Debug\Lesson6WFhomework.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\obj\Debug\Lesson6WFhomework.Form1.resources
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\obj\Debug\Lesson6WFhomework.Properties.Resources.resources
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\obj\Debug\Lesson6WFhomework.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\obj\Debug\Lesson6WFhomework.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\obj\Debug\Lesson6WFhomework.csproj.CopyComplete
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\obj\Debug\Lesson6WFhomework.exe
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\obj\Debug\Lesson6WFhomework.pdb
+C:\Users\User\Desktop\WinForms\Lesson6WFhomework\Lesson6WFhomework\obj\Debug\Lesson6WFhomework.GeneratedTeam.resources
